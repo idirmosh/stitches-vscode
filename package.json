@@ -4,6 +4,7 @@
   "description": "snippets code snippets for vscode",
   "version": "0.0.1",
   "publisher": "idirmosh",
+  "icon": "images/stitches.jpg",
   "engines": {
     "vscode": "^1.63.0"
   },
