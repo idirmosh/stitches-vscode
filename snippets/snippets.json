@@ -1,0 +1,12 @@
+{
+  "stitchesGlobalStyles": {
+    "prefix": "stg",
+    "body": "const globalStyles = globalCss({\n\t'*': { \n\t\t\tmargin: '0', \n\t\t\tpadding: '0' \n\t});",
+    "description": "Creates a Global Stitches CSS styles"
+  },
+  "stitchesCSS": {
+    "prefix": "stc",
+    "body": "const name = css({ \n\t\t\tpadding: '0' \n\t});",
+    "description": "Creates a Stitches CSS styles"
+  }
+}
